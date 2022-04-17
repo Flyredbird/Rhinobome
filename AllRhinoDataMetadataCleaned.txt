@@ -1,0 +1,152 @@
+Name	Month	Season	Age	Individual	FSJ	FSFrozen	FSJNoSummer
+1759FJan_S24_L	1-Jan	Winter	AdultFemale	F3	Y	Y	Y
+1763CFeb_S27_L	2-Feb	Winter	AdultFemale	F1	N	N	N
+1763FFeb_S25_L	2-Feb	Winter	AdultFemale	F1	Y	Y	Y
+1763PFeb_S26_L	2-Feb	Winter	AdultFemale	F1	N	N	N
+2031C230_S90_L	Day 230	Day 230	AdultMale	M1	N	N	N
+2031CFeb_S42_L	2-Feb	Winter	AdultMale	M1	N	N	N
+2031CJan_S8_L	1-Jan	Winter	AdultMale	M1	N	N	N
+2031FFeb_S40_L	2-Feb	Winter	AdultMale	M1	N	N	N
+2031F230_S88_L	Day 230	Day 230	AdultMale	M1	N	N	N
+2031FJan_S6_L	1-Jan	Winter	AdultMale	M1	N	N	N
+2031P230_S89_L	Day 230	Day 230	AdultMale	M1	N	N	N
+2031PFeb_S41_L	2-Feb	Winter	AdultMale	M1	N	N	N
+2031PJan_S7_L	1-Jan	Winter	AdultMale	M1	N	N	N
+2229C230_S87_L	Day 230	Day 230	SubadultFemale	S1	N	N	N
+2229FP230_S86_L	Day 230	Day 230	SubadultFemale	S1	N	N	N
+2229F230_S85_L	Day 230	Day 230	SubadultFemale	S1	N	N	N
+2231C230_S93_L	Day 230	Day 230	SubadultFemale	S2	N	N	N
+2231CFeb_S33_L	2-Feb	Winter	SubadultFemale	S2	N	N	N
+2231CJan_S23_L	1-Jan	Winter	SubadultFemale	S2	N	N	N
+2231F230_S91_L	Day 230	Day 230	SubadultFemale	S2	N	N	N
+2231FFeb_S31_L	2-Feb	Winter	SubadultFemale	S2	Y	Y	Y
+2231FJan_S21_L	1-Jan	Winter	SubadultFemale	S2	Y	Y	Y
+2231P230_S92_L	Day 230	Day 230	SubadultFemale	S2	N	N	N
+2231PFeb_S32_L	2-Feb	Winter	SubadultFemale	S2	N	N	N
+2231PJan_S22_L	1-Jan	Winter	SubadultFemale	S2	N	N	N
+29CFeb_S48_L	2-Feb	Winter	SubadultFemale	S1	N	N	N
+29CJan_S3_L	1-Jan	Winter	SubadultFemale	S1	N	N	N
+29CMar_S75_L	3-Mar	Winter	SubadultFemale	S1	N	N	N
+29FFeb_S46_L	2-Feb	Winter	SubadultFemale	S1	Y	Y	Y
+29FJan_S1_L	1-Jan	Winter	SubadultFemale	S1	Y	Y	Y
+29FMar_S73_L	3-Mar	Winter	SubadultFemale	S1	Y	Y	Y
+29PFeb_S47_L	2-Feb	Winter	SubadultFemale	S1	N	N	N
+29PJan_S2_L	1-Jan	Winter	SubadultFemale	S1	N	N	N
+29PMar_S74_L	3-Mar	Winter	SubadultFemale	S1	N	N	N
+31FMar_S70_L	3-Mar	Winter	SubadultFemale	S2	Y	Y	Y
+31CMar_S72_L	3-Mar	Winter	SubadultFemale	S2	N	N	N
+31PMar_S71_L	3-Mar	Winter	SubadultFemale	S2	N	N	N
+42C230_S84_L	Day 230	Day 230	GeriatricFemale	G1	N	N	N
+42CFeb_S30_L	2-Feb	Winter	GeriatricFemale	G1	N	N	N
+42CJan_S14_L	1-Jan	Winter	GeriatricFemale	G1	N	N	N
+42CMar_S78_L	3-Mar	Winter	GeriatricFemale	G1	N	N	N
+42F230_S82_L	Day 230	Day 230	GeriatricFemale	G1	N	N	N
+42FFeb_S28_L	2-Feb	Winter	GeriatricFemale	G1	N	N	N
+42FJan_S13_L	1-Jan	Winter	GeriatricFemale	G1	N	N	N
+42FMar_S76_L	3-Mar	Winter	GeriatricFemale	G1	N	N	N
+42P230_S83_L	Day 230	Day 230	GeriatricFemale	G1	N	N	N
+42PFeb_S29_L	2-Feb	Winter	GeriatricFemale	G1	N	N	N
+42PMar_S77_L	3-Mar	Winter	GeriatricFemale	G1	N	N	N
+59CFeb_S45_L	2-Feb	Winter	AdultFemale	F3	N	N	N
+59C230_S96_L	Day 230	Day 230	AdultFemale	F3	N	N	N
+59CMar_S63_L	3-Mar	Winter	AdultFemale	F3	N	N	N
+59F230_S94_L	Day 230	Day 230	AdultFemale	F3	N	N	N
+59FFeb_S43_L	2-Feb	Winter	AdultFemale	F3	Y	Y	Y
+59FMar_S61_L	3-Mar	Winter	AdultFemale	F3	Y	Y	Y
+59P230_S95_L	Day 230	Day 230	AdultFemale	F3	N	N	N
+59PFeb_S44_L	2-Feb	Winter	AdultFemale	F3	N	N	N
+60C230_S81_L	Day 230	Day 230	AdultFemale	F4	N	N	N
+59PMar_S62_L	3-Mar	Winter	AdultFemale	F3	N	N	N
+60CFeb_S36_L	2-Feb	Winter	AdultFemale	F4	N	N	N
+60CJan_S5_L	1-Jan	Winter	AdultFemale	F4	N	N	N
+60F230_S79_L	Day 230	Day 230	AdultFemale	F4	N	N	N
+60FFeb_S34_L	2-Feb	Winter	AdultFemale	F4	Y	Y	Y
+60FJan_S4_L	1-Jan	Winter	AdultFemale	F4	Y	Y	Y
+60P230_S80_L	Day 230	Day 230	AdultFemale	F4	N	N	N
+61CFeb_S54_L	2-Feb	Winter	AdultFemale	F2	N	N	N
+60PFeb_S35_L	2-Feb	Winter	AdultFemale	F4	N	N	N
+61CJan_S17_L	1-Jan	Winter	AdultFemale	F2	N	N	N
+61CMar_S69_L	3-Mar	Winter	AdultFemale	F2	N	N	N
+61FFeb_S52_L	2-Feb	Winter	AdultFemale	F2	Y	Y	Y
+61FJan_S15_L	1-Jan	Winter	AdultFemale	F2	Y	Y	Y
+61FMar_S67_L	3-Mar	Winter	AdultFemale	F2	Y	Y	Y
+61PFeb_S53_L	2-Feb	Winter	AdultFemale	F2	N	N	N
+61PJan_S16_L	1-Jan	Winter	AdultFemale	F2	N	N	N
+61PMar_S68_L	3-Mar	Winter	AdultFemale	F2	N	N	N
+63CJan_S20_L	1-Jan	Winter	AdultFemale	F1	N	N	N
+63CMar_S60_L	3-Mar	Winter	AdultFemale	F1	N	N	N
+63FJan_S18_L	1-Jan	Winter	AdultFemale	F1	Y	Y	Y
+63FMar_S58_L	3-Mar	Winter	AdultFemale	F1	Y	Y	Y
+63PJan_S19_L	1-Jan	Winter	AdultFemale	F1	N	N	N
+63PMar_S59_L	3-Mar	Winter	AdultFemale	F1	N	N	N
+73CFeb_S39_L	2-Feb	Winter	JuvenileFemale	J1	N	N	N
+73CJan_S12_L	1-Jan	Winter	JuvenileFemale	J1	N	N	N
+73CMar_S66_L	3-Mar	Winter	JuvenileFemale	J1	N	N	N
+73FJan_S11_L	1-Jan	Winter	JuvenileFemale	J1	Y	N	Y
+73FFeb_S37_L	2-Feb	Winter	JuvenileFemale	J1	Y	N	Y
+73FMar_S64_L	3-Mar	Winter	JuvenileFemale	J1	Y	N	Y
+73PFeb_S38_L	2-Feb	Winter	JuvenileFemale	J1	N	N	N
+73PMar_S65_L	3-Mar	Winter	JuvenileFemale	J1	N	N	N
+80CFeb_S51_L	2-Feb	Winter	JuvenileFemale	J2	N	N	N
+80CJan_S10_L	1-Jan	Winter	JuvenileFemale	J2	N	N	N
+80CMar_S57_L	3-Mar	Winter	JuvenileFemale	J2	N	N	N
+80FFeb_S49_L	2-Feb	Winter	JuvenileFemale	J2	Y	N	Y
+80FJan_S9_L	1-Jan	Winter	JuvenileFemale	J2	Y	N	Y
+80PFeb_S50_L	2-Feb	Winter	JuvenileFemale	J2	N	N	N
+80FMar_S55_L	3-Mar	Winter	JuvenileFemale	J2	Y	N	Y
+80PMar_S56_L	3-Mar	Winter	JuvenileFemale	J2	N	N	N
+Jul2031C2_S48_L001_R1	7-Jul	Summer	AdultMale	M1	N	N	N
+Jul2031F_S52_L001_R1	7-Jul	Summer	AdultMale	M1	N	N	N
+Jul2031P_S44_L001_R1	7-Jul	Summer	AdultMale	M1	N	N	N
+Jul2231C3_S49_L001_R1	7-Jul	Summer	SubadultFemale	S2	N	N	N
+Jul2231F_S53_L001_R1	7-Jul	Summer	SubadultFemale	S2	Y	Y	N
+Jul2231P2PUR_S45_L001_R1	7-Jul	Summer	SubadultFemale	S2	N	N	N
+Jul29C2_S37_L001_R1	7-Jul	Summer	SubadultFemale	S1	N	N	N
+Jul29F_S41_L001_R1	7-Jul	Summer	SubadultFemale	S1	Y	Y	N
+Jul29P2_S32_L001_R1	7-Jul	Summer	SubadultFemale	S1	N	N	N
+Jul42F_S40_L001_R1	7-Jul	Summer	GeriatricFemale	G1	N	N	N
+Jul42C2_S36_L001_R1	7-Jul	Summer	GeriatricFemale	G1	N	N	N
+Jul42P_S31_L001_R1	7-Jul	Summer	GeriatricFemale	G1	N	N	N
+Jul59C2_S7_L001_R1	7-Jul	Summer	AdultFemale	F3	N	N	N
+Jul59F_S12_L001_R1	7-Jul	Summer	AdultFemale	F3	Y	Y	N
+Jul59P2_S2_L001_R1	7-Jul	Summer	AdultFemale	F3	N	N	N
+Jul60F_S27_L001_R1	7-Jul	Summer	AdultFemale	F4	Y	Y	N
+Jul60C2_S17_L001_R1	7-Jul	Summer	AdultFemale	F4	N	N	N
+Jul60P2_S22_L001_R1	7-Jul	Summer	AdultFemale	F4	N	N	N
+Jul61C3_S21_L001_R1	7-Jul	Summer	AdultFemale	F2	N	N	N
+Jul61F_S26_L001_R1	7-Jul	Summer	AdultFemale	F2	Y	Y	N
+Jul61P2_S16_L001_R1	7-Jul	Summer	AdultFemale	F2	N	N	N
+Jul63F_S11_L001_R1	7-Jul	Summer	AdultFemale	F1	Y	Y	N
+Jul63C2_S6_L001_R1	7-Jul	Summer	AdultFemale	F1	N	N	N
+Jul63P2_S1_L001_R1	7-Jul	Summer	AdultFemale	F1	N	N	N
+Aug2031C2_S54_L001_R1	8-Aug	Summer	AdultMale	M1	N	N	N
+Aug2031F_S50_L001_R1	8-Aug	Summer	AdultMale	M1	N	N	N
+Aug2031P2_S4_L001_R1	8-Aug	Summer	AdultMale	M1	N	N	N
+Aug2231C2_S14_L001_R1	8-Aug	Summer	SubadultFemale	S2	N	N	N
+Aug2231P2_S19_L001_R1	8-Aug	Summer	SubadultFemale	S2	N	N	N
+Aug2231F_S9_L001_R1	8-Aug	Summer	SubadultFemale	S2	Y	Y	N
+Aug29C2_S29_L001_R1	8-Aug	Summer	SubadultFemale	S1	N	N	N
+Aug29F_S24_L001_R1	8-Aug	Summer	SubadultFemale	S1	Y	Y	N
+Aug29P2_S34_L001_R1	8-Aug	Summer	SubadultFemale	S1	N	N	N
+Aug42C2_S43_L001_R1	8-Aug	Summer	GeriatricFemale	G1	N	N	N
+Aug42F_S39_L001_R1	8-Aug	Summer	GeriatricFemale	G1	N	N	N
+Aug42P2_S47_L001_R1	8-Aug	Summer	GeriatricFemale	G1	N	N	N
+Aug59C2_S18_L001_R1	8-Aug	Summer	AdultFemale	F3	N	N	N
+Aug59F_S13_L001_R1	8-Aug	Summer	AdultFemale	F3	Y	Y	N
+Aug59P2_S23_L001_R1	8-Aug	Summer	AdultFemale	F3	N	N	N
+Aug60C2_S51_L001_R1	8-Aug	Summer	AdultFemale	F4	N	N	N
+Aug60F_S28_L001_R1	8-Aug	Summer	AdultFemale	F4	Y	Y	N
+Aug60P2_S33_L001_R1	8-Aug	Summer	AdultFemale	F4	N	N	N
+Aug61C2_S42_L001_R1	8-Aug	Summer	AdultFemale	F2	N	N	N
+Aug61F_S38_L001_R1	8-Aug	Summer	AdultFemale	F2	Y	Y	N
+Aug61P2_S46_L001_R1	8-Aug	Summer	AdultFemale	F2	N	N	N
+Aug63C2_S55_L001_R1	8-Aug	Summer	AdultFemale	F1	N	N	N
+Aug63F_S3_L001_R1	8-Aug	Summer	AdultFemale	F1	Y	Y	N
+Aug63P2_S8_L001_R1	8-Aug	Summer	AdultFemale	F1	N	N	N
+Sep61F_S35_L001_R1	9-Sep	Summer	AdultFemale	F2	Y	Y	N
+Sept2031F_S10_L001_R1	9-Sep	Summer	AdultMale	M1	N	N	N
+Sep60F_S30_L001_R1	9-Sep	Summer	AdultFemale	F4	Y	Y	N
+Sept29F_S5_L001_R1	9-Sep	Summer	SubadultFemale	S1	Y	Y	N
+Sept2231F_S15_L001_R1	9-Sep	Summer	SubadultFemale	S2	Y	Y	N
+Sept59F_S20_L001_R1	9-Sep	Summer	AdultFemale	F3	Y	Y	N
+Sept63F_S25_L001_R1	9-Sep	Summer	AdultFemale	F1	Y	Y	N
